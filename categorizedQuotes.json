@@ -1,0 +1,908 @@
+{
+  "funny": [
+    {
+      "id": 1,
+      "quote": "When life gives you lemons, squirt someone in the eye.",
+      "person": "Cathy Guiswite"
+    },
+    {
+      "id": 2,
+      "quote": "Don't be so humble - you are not that great.",
+      "person": "Golda Meir"
+    },
+    {
+      "id": 3,
+      "quote": "Never miss a good chance to shut up.",
+      "person": "Will Rogers"
+    },
+    {
+      "id": 4,
+      "quote": "If at first you don't succeed then skydiving definitely isn't for you.",
+      "person": "Steven Wright"
+    },
+    {
+      "id": 5,
+      "quote": "To succeed in life, you need three things: a wishbone, a backbone and a funny bone.",
+      "person": "Reba McEntire"
+    },
+    {
+      "id": 6,
+      "quote": "When I was growing up I always wanted to be someone. Now I realize I should have been more specific.",
+      "person": "Lily Tomlin"
+    },
+    {
+      "id": 7,
+      "quote": "The planet is fine. The people are f***ed.",
+      "person": "George Carlin"
+    },
+    {
+      "id": 8,
+      "quote": "If at first you don't succeed, then skydiving definitely isn't for you.",
+      "person": "Steven Wright"
+    },
+    {
+      "id": 9,
+      "quote": "Don't worry about the world coming to an end today. It is already tomorrow in Australia.",
+      "person": "Charles Schulz"
+    },
+    {
+      "id": 10,
+      "quote": "When I hear somebody sigh, Life is hard, I am always tempted to ask, Compared to what?",
+      "person": "Sydney Harris"
+    },
+    {
+      "id": 11,
+      "quote": "If you think you are too small to be effective, you have never been in the dark with a mosquito.",
+      "person": "Betty Reese"
+    },
+    {
+      "id": 12,
+      "quote": "Always borrow money from a pessimist. He won't expect it back.",
+      "person": "Oscar Wilde"
+    },
+    {
+      "id": 13,
+      "quote": "Be like a postage stamp. Stick to a thing till you get there.",
+      "person": "Josh Billings"
+    },
+    {
+      "id": 14,
+      "quote": "It's okay to look at the past and the future. Just don't stare.",
+      "person": "Lisa Lieberman-Wang"
+    },
+    {
+      "id": 15,
+      "quote": "Hating people is like burning down your own home to get rid of a rat.",
+      "person": "Harry Emerson Fosdick"
+    },
+    {
+      "id": 16,
+      "quote": "Wisdom comes from experience. Experience is often a result of lack of wisdom.",
+      "person": "Terry Pratchett"
+    },
+    {
+      "id": 17,
+      "quote": "I figured something out. The future is unpredictable.",
+      "person": "John Green"
+    },
+    {
+      "id": 18,
+      "quote": "A mind is like a parachute. It doesn't work if it is not open.",
+      "person": "Frank Zappa"
+    },
+    {
+      "id": 19,
+      "quote": "Aspire to inspire before we expire.",
+      "person": "Eugene Bell Jr"
+    }
+  ],
+  "motivational": [
+    {
+      "id": 20,
+      "quote": "Be the change that you wish to see in the world.",
+      "person": "Mahatma Gandhi"
+    },
+    {
+      "id": 21,
+      "quote": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+      "person": "Roy T. Bennett"
+    },
+    {
+      "id": 22,
+      "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+      "person": "Mahatma Gandhi"
+    },
+    {
+      "id": 23,
+      "quote": "The way I see it, if you want the rainbow, you gotta put up with the rain.",
+      "person": "Dolly Parton"
+    },
+    {
+      "id": 24,
+      "quote": "When you have a dream, you've got to grab it and never let go.",
+      "person": "Carol Burnett"
+    },
+    {
+      "id": 25,
+      "quote": "I want to be in the arena. I want to be brave with my life. And when we make the choice to dare greatly, we sign up to get our asses kicked. We can choose courage or we can choose comfort, but we can't have both. Not at the same time.",
+      "person": "Brene Brown"
+    },
+    {
+      "id": 26,
+      "quote": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
+      "person": "Roald Dahl"
+    },
+    {
+      "id": 27,
+      "quote": "We are not our best intentions. We are what we do.",
+      "person": "Amy Dickinson"
+    },
+    {
+      "id": 28,
+      "quote": "When we let fear be our master, we cannot be happy and free as a butterfly. But when we choose to trust the journey and embrace love and joy, we are free to fly.",
+      "person": "Annicken R. Day"
+    },
+    {
+      "id": 29,
+      "quote": "Trying to grow up is hurting. You make mistakes. You try to learn from them, and when you don't, it hurts even more.",
+      "person": "Aretha Franklin"
+    },
+    {
+      "id": 30,
+      "quote": "Do what you feel in your heart to be right - for you'll be criticized anyway.",
+      "person": "Eleanor Roosevelt"
+    },
+    {
+      "id": 31,
+      "quote": "Friendship is unnecessary, like philosophy, like art.... It has no survival value; rather it is one of those things which give value to survival.",
+      "person": "C.S. Lewis"
+    },
+    {
+      "id": 32,
+      "quote": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+      "person": "Roy T. Bennett"
+    },
+    {
+      "id": 33,
+      "quote": "Aim for the moon. If you miss, you may hit a star.",
+      "person": "W. Clement Stone"
+    }
+  ],
+  "change": [
+    {
+      "id": 34,
+      "quote": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+      "person": "Leo Tolstoy"
+    },
+    {
+      "id": 35,
+      "quote": "Change will not come if we wait for some other person, or if we wait for some other time. We are the ones we've been waiting for. We are the change that we seek.",
+      "person": "Barack Obama"
+    },
+    {
+      "id": 36,
+      "quote": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+      "person": "Albert Einstein"
+    },
+    {
+      "id": 37,
+      "quote": "Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
+      "person": "Lao Tzu"
+    },
+    {
+      "id": 38,
+      "quote": "Taking a new step, uttering a new word, is what people fear most.",
+      "person": "Fyodor Dostoevsky"
+    },
+    {
+      "id": 39,
+      "quote": "Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.",
+      "person": "Eckhart Tolle"
+    },
+    {
+      "id": 40,
+      "quote": "No matter who you are, no matter what you did, no matter where you've come from, you can always change, become a better version of yourself.",
+      "person": "Madonna"
+    },
+    {
+      "id": 41,
+      "quote": "True life is lived when tiny changes occur.",
+      "person": "Leo Tolstoy"
+    },
+    {
+      "id": 42,
+      "quote": "Change begins at the end of your comfort zone.",
+      "person": "Roy T. Bennett"
+    },
+    {
+      "id": 43,
+      "quote": "To change ourselves effectively, we first had to change our perceptions.",
+      "person": "Stephen R. Covey"
+    },
+    {
+      "id": 44,
+      "quote": "The secret of change is to focus all of your energy, not on fighting the old, but on building the new.",
+      "person": "Socrates"
+    },
+    {
+      "id": 45,
+      "quote": "Change is hardest at the beginning, messiest in the middle and best at the end.",
+      "person": "Robin Sharma"
+    },
+    {
+      "id": 46,
+      "quote": "People can cry much easier than they can change.",
+      "person": "James Baldwin"
+    },
+    {
+      "id": 47,
+      "quote": "Change almost never fails because it's too early. It almost always fails because it's too late.",
+      "person": "Seth Godin"
+    },
+    {
+      "id": 48,
+      "quote": "Man cannot remake himself without suffering, for he is both the marble and the sculptor",
+      "person": "Alexis Carrel"
+    },
+    {
+      "id": 49,
+      "quote": "It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.",
+      "person": "Roy T. Bennett"
+    },
+    {
+      "id": 50,
+      "quote": "Those who cannot change their minds cannot change anything.",
+      "person": "George Bernard Shaw"
+    },
+    {
+      "id": 51,
+      "quote": "The present changes the past. Looking back you do not find what you left behind.",
+      "person": "Kiran Desai"
+    },
+    {
+      "id": 52,
+      "quote": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
+      "person": "Mother Teresa "
+    },
+    {
+      "id": 53,
+      "quote": "Change the way you look at things and the things you look at change.",
+      "person": "Wayne W. Dyer"
+    },
+    {
+      "id": 54,
+      "quote": "We are products of our past, but we don't have to be prisoners of it.",
+      "person": "Rick Warren"
+    },
+    {
+      "id": 55,
+      "quote": "Any change, even a change for the better, is always accompanied by drawbacks and discomforts.",
+      "person": "Arnold Bennett"
+    },
+    {
+      "id": 56,
+      "quote": "Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
+      "person": "Lao Tzu"
+    },
+    {
+      "id": 57,
+      "quote": "Taking a new step, uttering a new word, is what people fear most.",
+      "person": "Fyodor Dostoyevsky"
+    },
+    {
+      "id": 58,
+      "quote": "Nothing is as painful to the human mind as a great and sudden change.",
+      "person": "Mary Shelley"
+    },
+    {
+      "id": 59,
+      "quote": "Change is inevitable. Change is constant",
+      "person": "Benjamin Disraeli"
+    },
+    {
+      "id": 60,
+      "quote": "When you're finished changing, you're finished.",
+      "person": "Benjamin Franklin"
+    }
+  ],
+  "love": [
+    {
+      "id": 61,
+      "quote": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+      "person": "Dr. Seuss"
+    },
+    {
+      "id": 62,
+      "quote": "All your life, you will be faced with a choice. You can choose love or hate…I choose love.",
+      "person": "Johnny Cash"
+    },
+    {
+      "id": 63,
+      "quote": "The greatest pleasure of life is love.",
+      "person": "Euripides"
+    },
+    {
+      "id": 64,
+      "quote": "If you want to be loved, be lovable.",
+      "person": "Ovid"
+    },
+    {
+      "id": 65,
+      "quote": "Where there is love, there is life.",
+      "person": "Mahatma Ghandi"
+    },
+    {
+      "id": 66,
+      "quote": "If you find it in your heart to care for somebody else, you will have succeeded",
+      "person": "Maya Angelou"
+    },
+    {
+      "id": 67,
+      "quote": "Love in its essence is spiritual fire.",
+      "person": "Seneca"
+    },
+    {
+      "id": 68,
+      "quote": "I have decided to stick with love. Hate is too great a burden to bear.",
+      "person": "Martin Luther King, Jr"
+    },
+    {
+      "id": 69,
+      "quote": "We are most alive when we're in love.",
+      "person": "John Updike"
+    },
+    {
+      "id": 70,
+      "quote": "Tis better to have loved and lost than never to have loved at all.",
+      "person": "Alfred Lord Tennyson"
+    },
+    {
+      "id": 71,
+      "quote": "Love does not dominate; it cultivates.",
+      "person": "Johann Wolfgang von Goethe"
+    },
+    {
+      "id": 72,
+      "quote": "Love is like the wind, you can't see it but you can feel it.",
+      "person": "Nicholas Sparks"
+    },
+    {
+      "id": 73,
+      "quote": "Love is a friendship set to music.",
+      "person": "Joseph Campbell"
+    },
+    {
+      "id": 74,
+      "quote": "To the world you may be one person, but to one person you are the world.",
+      "person": "Bill Wilson"
+    },
+    {
+      "id": 75,
+      "quote": "The most important thing in life is to learn how to give out love, and to let it come in.",
+      "person": "Morrie Schwartz"
+    },
+    {
+      "id": 76,
+      "quote": "Love is like a virus. It can happen to anybody at any time.",
+      "person": "Maya Angelou"
+    },
+    {
+      "id": 77,
+      "quote": "You have to grow, you have to be, you have to love yourself unconditionally.",
+      "person": "Dominic Riccitello"
+    },
+    {
+      "id": 78,
+      "quote": "Love yourself and dream bigger.",
+      "person": "Teresa Collins"
+    },
+    {
+      "id": 79,
+      "quote": "When admiring other people's gardens, don't forget to tend to your own flowers.",
+      "person": "Sandbar Khan"
+    },
+    {
+      "id": 80,
+      "quote": "You can never meet your potential until you truly learn to love yourself.",
+      "person": "Teresa Collins"
+    },
+    {
+      "id": 81,
+      "quote": "The absence of self-love can never be replaced with the presence of people's love for you.",
+      "person": "Edmond Mbiaka"
+    }
+  ],
+  "time": [
+    {
+      "id": 82,
+      "quote": "Time you enjoy wasting is not wasted time.",
+      "person": "Marthe Troly-Curtin"
+    },
+    {
+      "id": 83,
+      "quote": "Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.",
+      "person": " Mother Teresa"
+    },
+    {
+      "id": 84,
+      "quote": "A man who dares to waste one hour of time has not discovered the value of life.",
+      "person": "Charles Darwin"
+    },
+    {
+      "id": 85,
+      "quote": "Time is more valuable than money. You can get more money, but you cannot get more time.",
+      "person": "Jim Rohn"
+    },
+    {
+      "id": 86,
+      "quote": "Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.",
+      "person": "Roy T. Bennett"
+    },
+    {
+      "id": 87,
+      "quote": "Time is what we want most, but… what we use worst.",
+      "person": "William Penn"
+    },
+    {
+      "id": 88,
+      "quote": "Time is a created thing. To say \"I don't have time,\" is like saying, \"I don't want to.\" ",
+      "person": "Lao Tzu"
+    },
+    {
+      "id": 89,
+      "quote": "No use thinking of the past for its gone, don't think of the future because it has to come, think of the present because that's where you are.",
+      "person": "Kazi Shams"
+    },
+    {
+      "id": 90,
+      "quote": "Time is free, but it's priceless. You can't own it, but you can use it. You can't keep it, but you can spend it. Once you've lost it you can never get it back.",
+      "person": "Harvey Mackay"
+    },
+    {
+      "id": 91,
+      "quote": "The two most powerful warriors are patience and time.",
+      "person": "Leo Tolstoy"
+    },
+    {
+      "id": 92,
+      "quote": "Lost time is never found again.",
+      "person": "Benjamin Franklin"
+    },
+    {
+      "id": 93,
+      "quote": "Time is an equal opportunity employer, but how we treat time is not equal.",
+      "person": " John C. Maxwell"
+    },
+    {
+      "id": 94,
+      "quote": "The time that leads to mastery is dependent on the intensity of our focus.",
+      "person": "Robert Greene"
+    },
+    {
+      "id": 95,
+      "quote": "Never waste a minute thinking about people you don't like.",
+      "person": "Dwight D. Eisenhower"
+    },
+    {
+      "id": 96,
+      "quote": "There are no refunds on misspent time.",
+      "person": "Jack Butcher"
+    },
+    {
+      "id": 97,
+      "quote": "The future is uncertain but the end is always near.",
+      "person": "Jim Morrison"
+    },
+    {
+      "id": 98,
+      "quote": "Lack of time is actually a lack of priorities.",
+      "person": "Tim Ferriss"
+    },
+    {
+      "id": 99,
+      "quote": "All great achievements require time.",
+      "person": "Maya Angelou"
+    },
+    {
+      "id": 100,
+      "quote": "You cannot always wait for the perfect time. Sometimes you must dare to jump.",
+      "person": "Yasmeen Bleeth"
+    },
+    {
+      "id": 101,
+      "quote": "Though time is a gift, we often dismiss its fleetingness or use it for our own pleasure.",
+      "person": "Bob Burton"
+    }
+  ],
+  "education": [
+    {
+      "id": 102,
+      "quote": "Change is the end result of all true learning.",
+      "person": "Leo Buscaglia"
+    },
+    {
+      "id": 103,
+      "quote": "Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+      "person": "Malcolm X"
+    },
+    {
+      "id": 104,
+      "quote": "The roots of education are bitter, but the fruit is sweet.",
+      "person": "Aristotle"
+    },
+    {
+      "id": 105,
+      "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+      "person": "Mahatma Gandhi"
+    },
+    {
+      "id": 106,
+      "quote": "The learning process continues until the day you die.",
+      "person": "Kirk Douglas"
+    },
+    {
+      "id": 107,
+      "quote": "Develop a passion for learning. If you do, you will never cease to grow.",
+      "person": "Anthony J. D'Angelo"
+    },
+    {
+      "id": 108,
+      "quote": "Education is not preparation for life; education is life itself.",
+      "person": "John Dewey"
+    },
+    {
+      "id": 109,
+      "quote": "A person who won't read has no advantage over one who can't read.",
+      "person": "Mark Twain"
+    },
+    {
+      "id": 110,
+      "quote": "They know enough who know how to learn.",
+      "person": "Henry Adams"
+    },
+    {
+      "id": 111,
+      "quote": "Education is a better safeguard of liberty than a standing army.",
+      "person": "Edward Everett"
+    },
+    {
+      "id": 112,
+      "quote": "Education is the ability to listen to almost anything without losing your temper or your self-confidence.",
+      "person": "Robert Frost"
+    },
+    {
+      "id": 113,
+      "quote": "Learning is not compulsory. Neither is survival.",
+      "person": "Dr. W. Edwards Deming"
+    },
+    {
+      "id": 114,
+      "quote": "Education is the most powerful weapon which you can use to change the world.",
+      "person": "Nelson Mandela"
+    },
+    {
+      "id": 115,
+      "quote": "Intelligence plus character-that is the goal of true education.",
+      "person": "Martin Luther King Jr."
+    },
+    {
+      "id": 116,
+      "quote": "Everyone you will ever meet knows something you don't.",
+      "person": "Bill Nye"
+    },
+    {
+      "id": 117,
+      "quote": "You are always a student, never a master. You have to keep moving forward.",
+      "person": "Conrad Hall"
+    },
+    {
+      "id": 118,
+      "quote": "Children have to be educated, but they have also to be left to educate themselves.",
+      "person": "Ernest Dimnet"
+    },
+    {
+      "id": 119,
+      "quote": "Wisdom…. comes not from age, but from education and learning.",
+      "person": "Anton Chekhov"
+    },
+    {
+      "id": 120,
+      "quote": "Formal education will make you a living; self-education will make you a fortune.",
+      "person": "Jim Rohn"
+    },
+    {
+      "id": 121,
+      "quote": "The more I live, the more I learn. The more I learn, the more I realize, the less I know.",
+      "person": "Michel Legrand"
+    },
+    {
+      "id": 122,
+      "quote": "Only the educated are free.",
+      "person": "Epictetus"
+    },
+    {
+      "id": 123,
+      "quote": "Learning is a treasure that will follow its owner everywhere.",
+      "person": "Chinese Proverb"
+    },
+    {
+      "id": 124,
+      "quote": "Let the improvement of yourself keep you so busy that you have no time to criticize others.",
+      "person": "Roy T. Bennett"
+    }
+  ],
+  "truth": [
+    {
+      "id": 125,
+      "quote": "If you tell the truth, you don't have to remember anything.",
+      "person": "Mark Twain"
+    },
+    {
+      "id": 126,
+      "quote": "The time is always right to do what is right.",
+      "person": "Martin Luther King Jr"
+    },
+    {
+      "id": 127,
+      "quote": "The truth is rarely pure and never simple.",
+      "person": "Oscar Wilde"
+    },
+    {
+      "id": 128,
+      "quote": "A lie can travel half way around the world while the truth is putting on its shoes.",
+      "person": "Mark Twain"
+    },
+    {
+      "id": 129,
+      "quote": "The truth will set you free, but first it will piss you off.",
+      "person": "Joe Klaas"
+    },
+    {
+      "id": 130,
+      "quote": "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love.",
+      "person": "Fyodor Dostoevsky"
+    },
+    {
+      "id": 131,
+      "quote": "In a time of deceit telling the truth is a revolutionary act.",
+      "person": "George Orwell"
+    },
+    {
+      "id": 132,
+      "quote": "Rather than love, than money, than fame, give me truth.",
+      "person": "Henry David Thoreau"
+    },
+    {
+      "id": 133,
+      "quote": "Tell the truth, or someone will tell it for you.",
+      "person": "Stephanie Klein"
+    },
+    {
+      "id": 134,
+      "quote": "If you do not tell the truth about yourself you cannot tell it about other people.",
+      "person": "Virginia Woolf"
+    },
+    {
+      "id": 135,
+      "quote": "No persons are more frequently wrong, than those who will not admit they are wrong.",
+      "person": "François de La Rochefoucauld"
+    },
+    {
+      "id": 136,
+      "quote": "The truth will set you free. But not until it is finished with you.",
+      "person": "David Foster Wallace"
+    },
+    {
+      "id": 137,
+      "quote": "Better a cruel truth than a comfortable delusion.",
+      "person": "Edward Abbey"
+    },
+    {
+      "id": 138,
+      "quote": "Most men would rather deny a hard truth than face it.",
+      "person": "George R.R. Martin"
+    },
+    {
+      "id": 139,
+      "quote": "There are two ways to be fooled. One is to believe what isn't true; the other is to refuse to believe what is true",
+      "person": "Soren Kierkegaard"
+    },
+    {
+      "id": 140,
+      "quote": "Truth never damages a cause that is just.",
+      "person": "Mahatma Gandhi"
+    },
+    {
+      "id": 141,
+      "quote": "Wrong does not cease to be wrong because the majority share in it.",
+      "person": "Leo Tolstoy"
+    },
+    {
+      "id": 142,
+      "quote": "I'm not upset that you lied to me, I'm upset that from now on I can't believe you.",
+      "person": "Friedrich Nietzsche"
+    }
+  ],
+  "life": [
+    {
+      "id": 143,
+      "quote": "Be mindful. Be grateful. Be positive. Be true. Be kind.",
+      "person": "Roy T. Bennett"
+    },
+    {
+      "id": 144,
+      "quote": "The minute you settle for less than you deserve, you get even less than you settled for.",
+      "person": "Maureen Dowd"
+    },
+    {
+      "id": 145,
+      "quote": "The secret to getting ahead is getting started.",
+      "person": "Mark Twain"
+    },
+    {
+      "id": 146,
+      "quote": "Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.",
+      "person": "William Faulkner"
+    },
+    {
+      "id": 147,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "person": "Confucius"
+    },
+    {
+      "id": 148,
+      "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+      "person": "Mark Twain"
+    },
+    {
+      "id": 149,
+      "quote": "A life is not important except in the impact it has on other lives.",
+      "person": "Jackie Robinson"
+    },
+    {
+      "id": 150,
+      "quote": "Life just doesn't hand you things. You have to get out there and make things happen. that's the exciting part.",
+      "person": "Emeril Lagasse"
+    },
+    {
+      "id": 151,
+      "quote": "Be a bush if you can't be a tree. If you can't be a highway, just be a trail. If you can't be a sun, be a star. For it isn't by size that you win or fail. Be the best of whatever you are.",
+      "person": "Martin Luther King Jr"
+    },
+    {
+      "id": 152,
+      "quote": "You're going to go through tough times - that's life. But I say, 'Nothing happens to you, it happens for you.' See the positive in negative events.",
+      "person": "Joel Osteen"
+    },
+    {
+      "id": 153,
+      "quote": "You build on failure. You use it as a stepping stone. Close the door on the past. You don't try to forget the mistakes, but you don't dwell on it. You don't let it have any of your energy, or any of your time, or any of your space.",
+      "person": "Johnny Cash"
+    },
+    {
+      "id": 154,
+      "quote": "Life is not a spectator sport. If you're going to spend your whole life in the grandstand just watching what goes on, in my opinion you're wasting your life.",
+      "person": "Jackie Robinson"
+    },
+    {
+      "id": 155,
+      "quote": "You only live once, but if you do it right, once is enough.",
+      "person": "Mae West"
+    },
+    {
+      "id": 156,
+      "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
+      "person": "Albert Einstein"
+    },
+    {
+      "id": 157,
+      "quote": "Life's as kind as you let it be.",
+      "person": "Charles Bukowski"
+    },
+    {
+      "id": 158,
+      "quote": "The things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy.",
+      "person": "Kalu Ndukwe Kalu"
+    },
+    {
+      "id": 159,
+      "quote": "It is difficult, when faced with a situation you cannot control, to admit you can do nothing.",
+      "person": "Lemony Snicket"
+    },
+    {
+      "id": 160,
+      "quote": "There are times to stay put, and what you want will come to you, and there are times to go out into the world and find such a thing for yourself.",
+      "person": "Lemony Snicket"
+    },
+    {
+      "id": 161,
+      "quote": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
+      "person": "Joseph Campbell"
+    },
+    {
+      "id": 162,
+      "quote": "Life doesn't get easier or more forgiving, we get stronger and more resilient.",
+      "person": "Steve Maraboli"
+    },
+    {
+      "id": 163,
+      "quote": "Hold yourself responsible for a higher standard than anybody else expects of you. Never excuse yourself. Never pity yourself. Be a hard master to yourself-and be lenient to everybody else.",
+      "person": "Henry Ward Beecher"
+    },
+    {
+      "id": 164,
+      "quote": "Do the things that interest you and do them with all your heart. Don't be concerned about whether people are watching you or criticizing you. The chances are that they aren't paying any attention to you. It's your attention to yourself that is so stultifying. But you have to disregard yourself as completely as possible. If you fail the first time then you'll just have to try harder the second time. After all, there's no real reason why you should fail. Just stop thinking about yourself.",
+      "person": "Eleanor Roosevelt"
+    },
+    {
+      "id": 165,
+      "quote": "I believe we are here on the planet Earth to live, grow up and do what we can to make this world a better place for all people to enjoy freedom.",
+      "person": "Rosa Parks"
+    },
+    {
+      "id": 166,
+      "quote": "Life is either a great adventure or nothing.",
+      "person": " Helen Keller"
+    },
+    {
+      "id": 167,
+      "quote": "Life is what happens when you're busy making other plans.",
+      "person": "John Lennon"
+    },
+    {
+      "id": 168,
+      "quote": "All you need in this life is ignorance and confidence; then success is sure.",
+      "person": "Mark Twain"
+    },
+    {
+      "id": 169,
+      "quote": "Never let the fear of striking out keep you from playing the game.",
+      "person": "Babe Ruth"
+    },
+    {
+      "id": 170,
+      "quote": "Not how long, but how well you have lived is the main thing.",
+      "person": "Seneca"
+    },
+    {
+      "id": 171,
+      "quote": "Don't settle for what life gives you; make life better and build something.",
+      "person": " Ashton Kutcher"
+    },
+    {
+      "id": 172,
+      "quote": "In three words I can sum up everything I've learned about life: It goes on.",
+      "person": "Robert Frost"
+    },
+    {
+      "id": 173,
+      "quote": "If you can do what you do best and be happy, you're further along in life than most people.",
+      "person": "Leonardo DiCaprio"
+    },
+    {
+      "id": 174,
+      "quote": "Never take life seriously. Nobody gets out alive anyway.",
+      "person": "Anonymous"
+    },
+    {
+      "id": 175,
+      "quote": "You're not defined by your past; you're prepared by it. You're stronger, more experienced, and you have greater confidence.",
+      "person": "Joel Osteen"
+    },
+    {
+      "id": 176,
+      "quote": "You choose the life you live. If you don't like it, it's on you to change it because no one else is going to do it for you.",
+      "person": "Kim Kiyosaki"
+    },
+    {
+      "id": 177,
+      "quote": "Life doesn't require that we be the best, only that we try our best.",
+      "person": "H. Jackson Brown Jr."
+    },
+    {
+      "id": 178,
+      "quote": "Life isn't about waiting for the storm to pass, it's about learning to dance in the rain.",
+      "person": "Vivian Greene"
+    }
+  ]
+}
